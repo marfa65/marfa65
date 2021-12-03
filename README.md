@@ -28,8 +28,8 @@ const aboutMe = {
   <code><img width="15%" src="https://www.vectorlogo.zone/logos/sequelizejs/sequelizejs-ar21.svg" alt="Sequelize"></code>
   <code><img width="10%" src="https://www.vectorlogo.zone/logos/postgresql/postgresql-vertical.svg" alt="postgreSQL"></code>
   <code><img width="17%" src="https://www.vectorlogo.zone/logos/mongodb/mongodb-ar21.svg" alt="mongodb"></code>
-   <code><img width="17%" src="https://www.vectorlogo.zone/logos/graphql/graphql-ar21.svg" alt="graphQL"></code>
-   <code><img width="17%" src="https://www.vectorlogo.zone/logos/apollographql/apollographql-ar21.svg" alt="apollo"></code>
+   <code><img width="15%" src="https://www.vectorlogo.zone/logos/graphql/graphql-ar21.svg" alt="graphQL"></code>
+   <code><img width="15%" src="https://www.vectorlogo.zone/logos/apollographql/apollographql-ar21.svg" alt="apollo"></code>
   
   
 </p>
