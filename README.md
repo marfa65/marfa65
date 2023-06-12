@@ -3,18 +3,19 @@
 ```
 const aboutMe = {
    pronouns: "he" | "him",
-   code: [Javascript, HTML, CSS],
+   code: [Javascript, TypeScript, HTML, CSS],
    technologies: {
       frontEnd: {
-         js: ["React", "Redux", "Next"]        
+         js: ["React", "Redux", "Next", Material UI]        
       },
       backEnd: {
          js: ["Node", "Express", "Sequelize", "GraphQL"],
       },
       databases: ["MongoDB", "mySQL", "PostgreSQL"]
    },
+   {knowledge of Python, Django},
    currentOccupation: ["open for job opportunities"],
-   inProgress: [Typescript, ReactNative]
+   inProgress: [ReactNative]
 };
 ```
 ## :star: Languages and Tools:
